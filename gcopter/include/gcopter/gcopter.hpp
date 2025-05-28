@@ -25,9 +25,10 @@
 #ifndef GCOPTER_HPP
 #define GCOPTER_HPP
 
-#include "gcopter/minco.hpp"
 #include "gcopter/flatness.hpp"
+#include "gcopter/geo_utils.hpp" 
 #include "gcopter/lbfgs.hpp"
+#include "gcopter/minco.hpp"
 
 #include <Eigen/Eigen>
 
